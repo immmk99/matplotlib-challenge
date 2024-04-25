@@ -1,4 +1,5 @@
-# Module 5 Challenge Summary: Evaluating SCC Treatment with Capomulin by Pymaceuticals Inc.
+# Module 5 Challenge Summary: 
+# Evaluating SCC Treatment with Capomulin by Pymaceuticals Inc.
 
 ## Study Objective
 Pymaceuticals Inc. conducted a study to evaluate Capomulin, a new treatment for squamous cell carcinoma (SCC), a prevalent form of skin cancer. The aim was to compare the efficacy of Capomulin against other drug regimens used in treating SCC in mice.
