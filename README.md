@@ -3,7 +3,7 @@
 ## Study Objective
 Pymaceuticals Inc. conducted a study to evaluate Capomulin, a new treatment for squamous cell carcinoma (SCC), a prevalent form of skin cancer. The aim was to compare the efficacy of Capomulin against other drug regimens used in treating SCC in mice.
 
-## Data Location and Analysis Tools**
+## Data Location and Analysis Tools
 All relevant data, including raw mouse data and study results, are maintained in the designated Pymaceuticals data repository. Detailed analyses are documented under the project name 'pymaceuticals_capomulin'.
 
 ## Comprehensive Analysis Overview
